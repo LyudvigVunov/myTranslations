@@ -1,0 +1,4 @@
+files:
+    -
+      source_path: '/myTranslations/localization/en/*.plist'
+      translation_path: '/myTranslations/localization/[locale]/[filename].plist'
