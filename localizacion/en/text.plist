@@ -5,7 +5,7 @@
   "expected": [
     {
       "data": "this is the text",
-      "type": "text me"
+      "type": "text me and you"
     }
   ]
 }
