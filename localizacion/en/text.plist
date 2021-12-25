@@ -1,7 +1,7 @@
 {
   "name": "Only text",
   "options": {},
-  "html": "this is the text",
+  "html": "this is the text hello",
   "expected": [
     {
       "data": "this is the text",
