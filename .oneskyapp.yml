@@ -2,3 +2,4 @@ files:
     -
       source_path: '/myTranslations/localization/en/*.json'
       translation_path: '/myTranslations/localization/[locale]/[filename].json'
+      
