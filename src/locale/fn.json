@@ -1,5 +1,5 @@
 {
-  "name": "Only text",
+  "name": "Fn",
   "options": {},
   "html": "this is the text hello go go go",
   "expected": [
