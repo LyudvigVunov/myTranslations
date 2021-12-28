@@ -1,0 +1,11 @@
+{
+  "name": "Game",
+  "options": {},
+  "html": "play",
+  "expected": [
+    {
+      "data": "go",
+      "type": "with"
+    }
+  ]
+}
