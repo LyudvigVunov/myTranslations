@@ -1,4 +1,4 @@
 files:
     -
       source_path: '/src/locale/newLoc/en-US.json'
-      translation_path: '/src/locale/newLoc/[locale].json'
+      
