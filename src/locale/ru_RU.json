@@ -1,7 +1,7 @@
 {
   "name": "по русски",
   "options": {},
-  "html": "this is the text hello go go go",
+  "html": "иди",
   "expected": [
     {
       "data": "this is the text",
