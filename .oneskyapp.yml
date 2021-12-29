@@ -1,5 +1,5 @@
 files:
     -
       source_path: '/src/locale/en-US.json'
-      translation_path: '/src/locale/[locale].json'
+      translation_path: '/src/locale/[namefile].json'
       
